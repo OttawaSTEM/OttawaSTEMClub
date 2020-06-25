@@ -148,7 +148,7 @@ body>.navbar-transparent {
 
 /* Home page styling */
 .corporate-jumbo {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0)), url("/static/site/img/banners/stem-carol-1.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0)), url("/OttawaSTEMClub/static/site/img/banners/stem-carol-1.jpg");
     /* background-image: url("/static/site/img/banners/stem-carol-1.jpg"); */
     background-repeat: no-repeat;
     background-position: center;
