@@ -1,2 +1,5 @@
 # Ottawa STEM Club static home page
-http://ottawastem.github.io/OttawaSTEMClub/
+https://ottawastem.github.io/OttawaSTEMClub/
+
+# More details in
+https://ottawastem.com
