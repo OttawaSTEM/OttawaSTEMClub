@@ -138,8 +138,8 @@ a.dropdown-item:hover {
 .social li a {
     width: 25px;
     height: 25px;
-    background: url("/static/site/img/social_media.svg");
-    background: rgba(0,0,0,0) url("/static/site/img/social_media.svg");
+    background: url("/OttawaSTEMClub/static/site/img/social_media.svg");
+    background: rgba(0,0,0,0) url("/OttawaSTEMClub/static/site/img/social_media.svg");
     background-repeat: no-repeat;
     background-size: 140px 280px;
     margin: 0 0 0 3px;
