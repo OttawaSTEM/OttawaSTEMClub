@@ -62,7 +62,7 @@ a.dropdown-item:hover {
             rgba(255, 255, 255, 0)
             80px
         ), 
-        url("/static/site/img/banners/banner-3.png"
+        url("/OttawaSTEMClub/static/site/img/banners/banner-3.png"
         );
     background-repeat: no-repeat;
     background-position: center;
@@ -76,7 +76,7 @@ a.dropdown-item:hover {
 
 .water {
     position: absolute;
-    background-image: url("/static/site/img/banners/banner-2-map.png");
+    background-image: url("/OttawaSTEMClub/static/site/img/banners/banner-2-map.png");
     background-size: cover;
     background-position: center;
     top:0;
